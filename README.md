@@ -69,9 +69,6 @@ their tickets.
 
 ![{31F9F406-341A-4521-AC4A-CEC10AD2A680}](https://github.com/user-attachments/assets/4884458f-3d3d-42e1-94b0-57e3abe71ea0)
 
+
 ## RESULT:
-Thus the implementation of Railway reservation system was done successfully.
-
-
-### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
